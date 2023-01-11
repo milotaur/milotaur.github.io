@@ -114,5 +114,10 @@ h1{
 
 .post-short{
   margin-top: .4rem;
+  width: 85%;
 }
 
+.title-in-article{
+  border-bottom: solid 1px  #797d7f;
+  padding: 0.5rem;
+}
