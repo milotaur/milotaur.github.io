@@ -74,6 +74,7 @@ h1{
 
 #rss-new-from-me{
   margin-left: 1rem;
+  margin-top: .7rem;
   width: 1.2rem;
   height: 1.2rem;
   filter: grayscale(100%) brightness(150%);
